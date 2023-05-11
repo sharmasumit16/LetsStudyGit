@@ -1,4 +1,4 @@
-public class Diff{
+public class Diff {
 
     
 }
